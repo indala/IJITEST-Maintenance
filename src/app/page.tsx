@@ -12,7 +12,7 @@ export default function Maintenance() {
         <link rel="icon" href="/favicon.ico" />
 </Head>
         <Image src="/logo.png" alt="Logo" width={120} height={30} priority className=" mb-8" />
-<h1 className="text-4xl font-bold text-gray-800  mb-4">Site is Under Maintenance</h1>
+<h1 className="text-4xl text-center font-bold text-gray-800  mb-4">Site is Under Maintenance</h1>
         <p className=" text-center text-gray-600 ">We&apos;re performing scheduled maintenance. Please check back later.</p>
       </div>
   );
